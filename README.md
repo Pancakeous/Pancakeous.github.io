@@ -1,2 +1,1 @@
-# Pancakeous.github.io
-Profile website
+# Site profile. Learning HTML, CSS, JS and github
